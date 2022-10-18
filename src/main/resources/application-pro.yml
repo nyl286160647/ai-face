@@ -1,0 +1,11 @@
+# face path
+img:
+  face: D:\\img\\faces
+# faceNet
+face:
+  netPath: models\face_net.xm
+  retina: models\retinaface.zip
+  feature: models\face_feature.zip
+# server port
+server:
+  port: 18082
